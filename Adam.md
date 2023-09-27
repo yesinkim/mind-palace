@@ -1,0 +1,1 @@
+Momentom과 [[RMSprop]]이라는 개념을 합침
