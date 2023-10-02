@@ -208,12 +208,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97d7646c4e1f6599",
+  "active": "84962e821a7d79db",
   "lastOpenFiles": [
-    "RMSprop.md",
-    "Hyperparameters.md",
+    "untitled folder",
+    "TODO",
     "Adam.md",
     "Learning Rate Decay.md",
+    "RMSprop.md",
+    "Hyperparameters.md",
     "learning rate lecay.md"
   ]
 }
