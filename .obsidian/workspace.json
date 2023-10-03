@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2e3f4b84094dce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIENVENIDOS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2023. 10. 03.md",
+                "file": "BIENVENIDOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2023. 10. 03.md",
+                "file": "BIENVENIDOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2023. 10. 03.md"
+                "file": "BIENVENIDOS.md"
               }
             }
           },
@@ -221,10 +234,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfc4d060cd5184c8",
+  "active": "84962e821a7d79db",
   "lastOpenFiles": [
-    "Learning Rate Decay.md",
     "TODO/2023. 10. 03.md",
+    "BIENVENIDOS.md",
+    "Learning Rate Decay.md",
     "untitled folder",
     "TODO",
     "Adam.md",
