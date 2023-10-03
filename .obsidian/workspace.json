@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Rate Decay.md",
+                "file": "TODO/2023. 10. 03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Rate Decay.md",
+                "file": "TODO/2023. 10. 03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Rate Decay.md",
+                "file": "TODO/2023. 10. 03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Rate Decay.md"
+                "file": "TODO/2023. 10. 03.md"
               }
             }
           },
@@ -223,8 +223,8 @@
   },
   "active": "dfc4d060cd5184c8",
   "lastOpenFiles": [
-    "TODO/2023. 10. 03.md",
     "Learning Rate Decay.md",
+    "TODO/2023. 10. 03.md",
     "untitled folder",
     "TODO",
     "Adam.md",
