@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a07a8ecd9e4a4e44",
+        "id": "2871b2661e6f2bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "c422bd0a96ccdcac",
+            "id": "517d9b84585aac0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RMSprop.md",
+                "file": "MachineLearning/공분산 행렬.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,59 +21,7 @@
             }
           },
           {
-            "id": "82cf8b06b247e4bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Rate Decay.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c6ac0cd5a61c78e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RMSprop.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97d7646c4e1f6599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Rate Decay.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfc4d060cd5184c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/2023. 10. 03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2e3f4b84094dce7",
+            "id": "ee4977423281d151",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Optimization",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -147,31 +95,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e88beb9e1dcfc33",
+            "id": "5b66266702f2ce18",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "BIENVENIDOS.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8fd789babcd53dd4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "BIENVENIDOS.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "BIENVENIDOS.md"
               }
             }
           },
@@ -183,16 +112,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5b66266702f2ce18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "BIENVENIDOS.md"
               }
             }
           },
@@ -213,14 +132,42 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "c46deb58e9479d1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BIENVENIDOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d9ab52c1fd9cd04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BIENVENIDOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,19 +178,48 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Week plan": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "84962e821a7d79db",
+  "active": "ee4977423281d151",
   "lastOpenFiles": [
-    "TODO/2023. 10. 03.md",
+    "MachineLearning/공분산 행렬.md",
+    "MachineLearning/RMSprop.md",
+    "MachineLearning/고유값.md",
+    "MachineLearning/고유벡터.md",
+    "MachineLearning/Learning Rate Decay.md",
+    "TODO/2023-10-21.md",
+    "TODO/2023-10-07.md",
+    "TODO/2023-10-09.md",
+    "TODO/2023-10-10.md",
+    "TODO/2023-10-15.md",
     "BIENVENIDOS.md",
-    "Learning Rate Decay.md",
+    "Workout/10월 운동기록.md",
+    "_source/Pasted image 20231009205649.png",
+    "_source/Pasted image 20231010024746.png",
+    "TODO/2023-10-08.md",
+    "202310100045.md",
+    "Template/Workout Template(WIP also...).md",
+    "Workout/WOD.md",
+    "MachineLearning/Hyperparameters.md",
+    "Template/Daily Note Template(WIP...).md",
+    "MachineLearning/Adam.md",
+    "source/Recording 20231009202007.webm",
+    "_source",
+    "202310091919.md",
+    "TODO/2023-10-03.md",
+    "TODO/2023-10-18.md",
+    "TODO/2023-10-16.md",
+    "TODO/2023-10-17.md",
+    "TODO/2023-10-05.md",
+    "MachineLearning",
+    "Workout",
+    "Template",
     "untitled folder",
     "TODO",
-    "Adam.md",
-    "RMSprop.md",
-    "Hyperparameters.md",
     "learning rate lecay.md"
   ]
 }

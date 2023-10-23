@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "💖",
+      "🍀",
+      "RaClover",
+      "RaAries",
+      "🏋"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "MachineLearning": {
+    "iconName": "📁",
+    "inheritanceIcon": "RaBook"
+  },
+  "TODO": "☑",
+  "Workout": "🏋",
+  "Template": "📁",
+  "_source": "🍀",
+  "BIENVENIDOS.md": "💖"
+}

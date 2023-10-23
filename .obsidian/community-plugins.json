@@ -1,7 +1,11 @@
 [
   "table-editor-obsidian",
-  "obsidian-git",
   "dataview",
   "obsidian-tasks-plugin",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "periodic-notes",
+  "url-into-selection",
+  "obsidian-icon-folder",
+  "obsidian-day-planner",
+  "obsidian-git"
 ]
