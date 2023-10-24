@@ -21,12 +21,51 @@
             }
           },
           {
-            "id": "ee4977423281d151",
+            "id": "eb4884a591c8184c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIENVENIDOS.md",
+                "file": "MachineLearning/공분산 행렬.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e6cf685b905abde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MachineLearning/고유 벡터.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09bf5450967c8e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MachineLearning/고유 값.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a697ea15f3d99211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MachineLearning/공분산 행렬.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIENVENIDOS.md"
+                "file": "MachineLearning/고유 값.md"
               }
             }
           },
@@ -139,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIENVENIDOS.md",
+                "file": "MachineLearning/고유 값.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,18 +195,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIENVENIDOS.md",
+                "file": "MachineLearning/고유 값.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,22 +217,29 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "workspaces:작업 공간 레이아웃 관리": false
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Week plan": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ee4977423281d151",
+  "active": "09bf5450967c8e2a",
   "lastOpenFiles": [
+    "MachineLearning/고유 벡터.md",
+    "MachineLearning/고유 값.md",
     "MachineLearning/공분산 행렬.md",
+    "MachineLearning/라그랑주 승수법.md",
+    "MachineLearning/정규직교 행렬.md",
+    "MachineLearning/주성분 분석.md",
+    "MachineLearning/단위 벡터.md",
     "MachineLearning/RMSprop.md",
-    "MachineLearning/고유값.md",
-    "MachineLearning/고유벡터.md",
     "MachineLearning/Learning Rate Decay.md",
+    "BIENVENIDOS.md",
     "TODO/2023-10-21.md",
     "TODO/2023-10-07.md",
     "TODO/2023-10-09.md",
     "TODO/2023-10-10.md",
     "TODO/2023-10-15.md",
-    "BIENVENIDOS.md",
     "Workout/10월 운동기록.md",
     "_source/Pasted image 20231009205649.png",
     "_source/Pasted image 20231010024746.png",
@@ -209,14 +255,10 @@
     "202310091919.md",
     "TODO/2023-10-03.md",
     "TODO/2023-10-18.md",
-    "TODO/2023-10-16.md",
-    "TODO/2023-10-17.md",
-    "TODO/2023-10-05.md",
     "MachineLearning",
     "Workout",
     "Template",
     "untitled folder",
-    "TODO",
-    "learning rate lecay.md"
+    "TODO"
   ]
 }
