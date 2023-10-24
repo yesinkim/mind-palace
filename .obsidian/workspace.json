@@ -178,10 +178,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Week plan": false,
-      "workspaces:작업 공간 레이아웃 관리": false,
-      "periodic-notes:Open today": false
+      "workspaces:작업 공간 레이아웃 관리": false
     }
   },
   "active": "ee4977423281d151",
