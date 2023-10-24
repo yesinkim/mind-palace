@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MachineLearning/고유 값.md",
+                "file": "MachineLearning/Adam.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d83cdaa503320185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MachineLearning/독립성분 분석.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MachineLearning/고유 값.md"
+                "file": "MachineLearning/독립성분 분석.md"
               }
             }
           },
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MachineLearning/고유 값.md",
+                "file": "MachineLearning/독립성분 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,18 +208,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MachineLearning/고유 값.md",
+                "file": "MachineLearning/독립성분 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,18 +236,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "09bf5450967c8e2a",
+  "active": "d83cdaa503320185",
   "lastOpenFiles": [
-    "MachineLearning/고유 벡터.md",
-    "MachineLearning/고유 값.md",
-    "MachineLearning/공분산 행렬.md",
+    "BIENVENIDOS.md",
+    "MachineLearning/독립성분 분석.md",
+    "MachineLearning/Adam.md",
+    "무제 파일.md",
     "MachineLearning/라그랑주 승수법.md",
     "MachineLearning/정규직교 행렬.md",
-    "MachineLearning/주성분 분석.md",
-    "MachineLearning/단위 벡터.md",
-    "MachineLearning/RMSprop.md",
     "MachineLearning/Learning Rate Decay.md",
-    "BIENVENIDOS.md",
+    "MachineLearning/RMSprop.md",
+    "MachineLearning/단위 벡터.md",
+    "MachineLearning/주성분 분석.md",
+    "MachineLearning/고유 값.md",
+    "MachineLearning/고유 벡터.md",
+    "MachineLearning/공분산 행렬.md",
     "TODO/2023-10-21.md",
     "TODO/2023-10-07.md",
     "TODO/2023-10-09.md",
@@ -249,12 +265,9 @@
     "Workout/WOD.md",
     "MachineLearning/Hyperparameters.md",
     "Template/Daily Note Template(WIP...).md",
-    "MachineLearning/Adam.md",
     "source/Recording 20231009202007.webm",
     "_source",
     "202310091919.md",
-    "TODO/2023-10-03.md",
-    "TODO/2023-10-18.md",
     "MachineLearning",
     "Workout",
     "Template",

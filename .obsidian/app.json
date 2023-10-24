@@ -5,5 +5,6 @@
   "trashOption": "local",
   "showUnsupportedFiles": false,
   "spellcheck": false,
-  "attachmentFolderPath": "source"
+  "attachmentFolderPath": "source",
+  "promptDelete": false
 }
