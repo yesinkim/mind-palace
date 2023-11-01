@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIENVENIDOS.md",
+                "file": "TODO/☁ SOMEDAY.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIENVENIDOS.md"
+                "file": "TODO/☁ SOMEDAY.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIENVENIDOS.md",
+                "file": "TODO/☁ SOMEDAY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIENVENIDOS.md",
+                "file": "TODO/☁ SOMEDAY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,23 +186,24 @@
   },
   "active": "ee4977423281d151",
   "lastOpenFiles": [
+    "Workout/10월 운동기록.md",
+    "TODO/☁ SOMEDAY.md",
+    "Template/Workout Template(WIP also...).md",
+    "TODO/2023-10-10.md",
+    "TODO/2023-10-15.md",
+    "TODO/2023-10-21.md",
+    "BIENVENIDOS.md",
     "MachineLearning/공분산 행렬.md",
     "MachineLearning/RMSprop.md",
     "MachineLearning/고유값.md",
     "MachineLearning/고유벡터.md",
     "MachineLearning/Learning Rate Decay.md",
-    "TODO/2023-10-21.md",
     "TODO/2023-10-07.md",
     "TODO/2023-10-09.md",
-    "TODO/2023-10-10.md",
-    "TODO/2023-10-15.md",
-    "BIENVENIDOS.md",
-    "Workout/10월 운동기록.md",
     "_source/Pasted image 20231009205649.png",
     "_source/Pasted image 20231010024746.png",
     "TODO/2023-10-08.md",
     "202310100045.md",
-    "Template/Workout Template(WIP also...).md",
     "Workout/WOD.md",
     "MachineLearning/Hyperparameters.md",
     "Template/Daily Note Template(WIP...).md",
@@ -219,7 +220,6 @@
     "Workout",
     "Template",
     "untitled folder",
-    "TODO",
-    "learning rate lecay.md"
+    "TODO"
   ]
 }
