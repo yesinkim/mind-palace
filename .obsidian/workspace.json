@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "eb4884a591c8184c",
+            "id": "ee4977423281d151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MachineLearning/공분산 행렬.md",
+                "file": "TODO/☁ SOMEDAY.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,46 +34,7 @@
             }
           },
           {
-            "id": "2e6cf685b905abde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MachineLearning/고유 벡터.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09bf5450967c8e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MachineLearning/Adam.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d83cdaa503320185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MachineLearning/독립성분 분석.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a697ea15f3d99211",
+            "id": "492550778608dd38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MachineLearning/독립성분 분석.md"
+                "file": "MachineLearning/공분산 행렬.md"
               }
             }
           },
@@ -191,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MachineLearning/독립성분 분석.md",
+                "file": "MachineLearning/공분산 행렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MachineLearning/독립성분 분석.md",
+                "file": "MachineLearning/공분산 행렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,44 +191,44 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "workspaces:작업 공간 레이아웃 관리": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Week plan": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d83cdaa503320185",
+  "active": "492550778608dd38",
   "lastOpenFiles": [
-    "BIENVENIDOS.md",
-    "MachineLearning/독립성분 분석.md",
-    "MachineLearning/Adam.md",
-    "무제 파일.md",
-    "MachineLearning/라그랑주 승수법.md",
+    "MachineLearning/주성분 분석.md",
     "MachineLearning/정규직교 행렬.md",
+    "MachineLearning/라그랑주 승수법.md",
+    "MachineLearning/독립성분 분석.md",
+    "MachineLearning/단위 벡터.md",
+    "MachineLearning/고유 벡터.md",
+    "MachineLearning/고유 값.md",
+    "BIENVENIDOS.md",
+    "TODO/☁ SOMEDAY.md",
+    "MachineLearning/공분산 행렬.md",
+    "MachineLearning/Adam.md",
+    "MachineLearning/Hyperparameters.md",
     "MachineLearning/Learning Rate Decay.md",
     "MachineLearning/RMSprop.md",
-    "MachineLearning/단위 벡터.md",
-    "MachineLearning/주성분 분석.md",
-    "MachineLearning/고유 값.md",
-    "MachineLearning/고유 벡터.md",
-    "MachineLearning/공분산 행렬.md",
+    "MachineLearning/고유값.md",
+    "MachineLearning/고유벡터.md",
+    "conflict-files-obsidian-git.md",
+    "Workout/10월 운동기록.md",
+    "Template/Workout Template(WIP also...).md",
+    "TODO/2023-10-10.md",
+    "TODO/2023-10-15.md",
     "TODO/2023-10-21.md",
     "TODO/2023-10-07.md",
     "TODO/2023-10-09.md",
-    "TODO/2023-10-10.md",
-    "TODO/2023-10-15.md",
-    "Workout/10월 운동기록.md",
     "_source/Pasted image 20231009205649.png",
     "_source/Pasted image 20231010024746.png",
     "TODO/2023-10-08.md",
     "202310100045.md",
-    "Template/Workout Template(WIP also...).md",
-    "Workout/WOD.md",
-    "MachineLearning/Hyperparameters.md",
-    "Template/Daily Note Template(WIP...).md",
     "source/Recording 20231009202007.webm",
     "_source",
-    "202310091919.md",
     "MachineLearning",
     "Workout",
     "Template",
