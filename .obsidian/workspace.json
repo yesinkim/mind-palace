@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MachineLearning/공분산 행렬.md",
+                "file": "Workout/10월 운동기록.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MachineLearning/공분산 행렬.md"
+                "file": "Workout/10월 운동기록.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MachineLearning/공분산 행렬.md",
+                "file": "Workout/10월 운동기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MachineLearning/공분산 행렬.md",
+                "file": "Workout/10월 운동기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,6 +199,8 @@
   },
   "active": "492550778608dd38",
   "lastOpenFiles": [
+    "TODO/☁ SOMEDAY.md",
+    "MachineLearning/공분산 행렬.md",
     "MachineLearning/주성분 분석.md",
     "MachineLearning/정규직교 행렬.md",
     "MachineLearning/라그랑주 승수법.md",
@@ -207,8 +209,6 @@
     "MachineLearning/고유 벡터.md",
     "MachineLearning/고유 값.md",
     "BIENVENIDOS.md",
-    "TODO/☁ SOMEDAY.md",
-    "MachineLearning/공분산 행렬.md",
     "MachineLearning/Adam.md",
     "MachineLearning/Hyperparameters.md",
     "MachineLearning/Learning Rate Decay.md",
