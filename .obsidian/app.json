@@ -6,5 +6,6 @@
   "showUnsupportedFiles": false,
   "spellcheck": false,
   "attachmentFolderPath": "source",
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false
 }

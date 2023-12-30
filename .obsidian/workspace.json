@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2871b2661e6f2bd5",
+        "id": "645352335f7d3685",
         "type": "tabs",
         "children": [
           {
-            "id": "517d9b84585aac0a",
+            "id": "c08b43d80b43ef54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MachineLearning/공분산 행렬.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee4977423281d151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/☁ SOMEDAY.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "492550778608dd38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workout/10월 운동기록.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -112,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Workout/10월 운동기록.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,40 +113,38 @@
             }
           },
           {
-            "id": "c46deb58e9479d1a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Workout/10월 운동기록.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "4d9ab52c1fd9cd04",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workout/10월 운동기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "04e32e233e6e8105",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb1cdc983186c40e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,42 +155,42 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Week plan": false,
       "workspaces:작업 공간 레이아웃 관리": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "492550778608dd38",
+  "active": "c08b43d80b43ef54",
   "lastOpenFiles": [
-    "TODO/☁ SOMEDAY.md",
+    "BIENVENIDOS.md",
+    "TODO/2023-12-30.md",
+    "2023.md",
+    "Workout/10월 운동기록.md",
+    "MachineLearning/고유 값.md",
+    "_source/Pasted image 20231009205649.png",
+    "_source/Pasted image 20231010024746.png",
+    "MachineLearning/독립성분 분석.md",
+    "TODO/2023-10-07.md",
+    "TODO/2023-10-09.md",
+    "Template/Daily Note Template(WIP...).md",
     "MachineLearning/공분산 행렬.md",
+    "TODO/☁ SOMEDAY.md",
+    "TODO/2023-10-03.md",
+    "TODO/2023-10-10.md",
+    "TODO/2023-10-05.md",
+    "Template/Workout Template(WIP also...).md",
+    "TODO/2023-10-21.md",
+    "TODO/무제 파일.md",
     "MachineLearning/주성분 분석.md",
     "MachineLearning/정규직교 행렬.md",
     "MachineLearning/라그랑주 승수법.md",
-    "MachineLearning/독립성분 분석.md",
     "MachineLearning/단위 벡터.md",
     "MachineLearning/고유 벡터.md",
-    "MachineLearning/고유 값.md",
-    "BIENVENIDOS.md",
     "MachineLearning/Adam.md",
     "MachineLearning/Hyperparameters.md",
     "MachineLearning/Learning Rate Decay.md",
     "MachineLearning/RMSprop.md",
-    "MachineLearning/고유값.md",
-    "MachineLearning/고유벡터.md",
-    "conflict-files-obsidian-git.md",
-    "Workout/10월 운동기록.md",
-    "Template/Workout Template(WIP also...).md",
-    "TODO/2023-10-10.md",
-    "TODO/2023-10-15.md",
-    "TODO/2023-10-21.md",
-    "TODO/2023-10-07.md",
-    "TODO/2023-10-09.md",
-    "_source/Pasted image 20231009205649.png",
-    "_source/Pasted image 20231010024746.png",
-    "TODO/2023-10-08.md",
-    "202310100045.md",
     "source/Recording 20231009202007.webm",
     "_source",
     "MachineLearning",

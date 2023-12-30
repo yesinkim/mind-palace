@@ -5,8 +5,12 @@
   "emoji-shortcodes",
   "periodic-notes",
   "url-into-selection",
-  "obsidian-icon-folder",
   "obsidian-day-planner",
   "obsidian-git",
-  "media-extended"
+  "media-extended",
+  "obsidian-auto-link-title",
+  "highlightr-plugin",
+  "quick-latex",
+  "obsidian-reminder-plugin",
+  "obsidian-icon-folder"
 ]

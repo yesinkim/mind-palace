@@ -10,7 +10,8 @@
   "weekly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": true
   },
   "monthly": {
     "format": "",
@@ -25,6 +26,7 @@
   "yearly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": true
   }
 }

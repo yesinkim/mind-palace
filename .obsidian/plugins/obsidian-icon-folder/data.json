@@ -21,7 +21,10 @@
       "left": 0
     },
     "iconInTabsEnabled": true,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "MachineLearning": {
     "iconName": "📁",
