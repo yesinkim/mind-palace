@@ -11,9 +11,12 @@
             "id": "c08b43d80b43ef54",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "TODO/2024-02-25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -82,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO/2024-02-25.md"
+              }
             }
           },
           {
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +190,7 @@
   },
   "active": "c08b43d80b43ef54",
   "lastOpenFiles": [
+    "TODO/2024-02-25.md",
     "BIENVENIDOS.md",
     "TODO/2023-12-30.md",
     "2023.md",
@@ -210,7 +218,6 @@
     "MachineLearning/Adam.md",
     "MachineLearning/Hyperparameters.md",
     "MachineLearning/Learning Rate Decay.md",
-    "MachineLearning/RMSprop.md",
     "source/Recording 20231009202007.webm",
     "_source",
     "MachineLearning",
