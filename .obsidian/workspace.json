@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/docker compose.md",
+                "file": "Workout/10월 운동기록.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/docker compose.md"
+                "file": "Workout/10월 운동기록.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/docker compose.md",
+                "file": "Workout/10월 운동기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/docker compose.md",
+                "file": "Workout/10월 운동기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,8 +204,9 @@
   },
   "active": "bf6103c5b05a40d3",
   "lastOpenFiles": [
-    "TODO/2024-02-25.md",
+    "TODO/2024-02-26.md",
     "TODO/docker compose.md",
+    "TODO/2024-02-25.md",
     "BIENVENIDOS.md",
     "TODO/2023-12-30.md",
     "2023.md",
@@ -231,7 +232,6 @@
     "MachineLearning/단위 벡터.md",
     "MachineLearning/고유 벡터.md",
     "MachineLearning/Adam.md",
-    "MachineLearning/Hyperparameters.md",
     "source/Recording 20231009202007.webm",
     "_source",
     "MachineLearning",
