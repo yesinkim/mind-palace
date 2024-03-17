@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workout/10월 운동기록.md",
+                "file": "TODO/2024-02-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workout/10월 운동기록.md"
+                "file": "TODO/2024-02-26.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workout/10월 운동기록.md",
+                "file": "TODO/2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workout/10월 운동기록.md",
+                "file": "TODO/2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +204,13 @@
   },
   "active": "bf6103c5b05a40d3",
   "lastOpenFiles": [
+    "Workout/10월 운동기록.md",
     "TODO/2024-02-26.md",
     "TODO/docker compose.md",
     "TODO/2024-02-25.md",
     "BIENVENIDOS.md",
     "TODO/2023-12-30.md",
     "2023.md",
-    "Workout/10월 운동기록.md",
     "MachineLearning/고유 값.md",
     "_source/Pasted image 20231009205649.png",
     "_source/Pasted image 20231010024746.png",
