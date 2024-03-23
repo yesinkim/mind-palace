@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/2024-02-26.md",
+                "file": "TODO/2024-03-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-02-26.md"
+                "file": "TODO/2024-03-18.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-02-26.md",
+                "file": "TODO/2024-03-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,20 +156,12 @@
             }
           },
           {
-            "id": "fb1cdc983186c40e",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "ea90c672b73b78f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-02-26.md",
+                "file": "TODO/2024-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,13 +171,29 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "a7fdd6a3773ab9ef",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "db48a04427688828",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +212,13 @@
   },
   "active": "bf6103c5b05a40d3",
   "lastOpenFiles": [
-    "Workout/10월 운동기록.md",
     "TODO/2024-02-26.md",
-    "TODO/docker compose.md",
     "TODO/2024-02-25.md",
+    "TODO/2024-03-18.md",
     "BIENVENIDOS.md",
+    "Workout/10월 운동기록.md",
+    "TODO/☁ SOMEDAY.md",
+    "TODO/docker compose.md",
     "TODO/2023-12-30.md",
     "2023.md",
     "MachineLearning/고유 값.md",
@@ -219,7 +229,6 @@
     "TODO/2023-10-09.md",
     "Template/Daily Note Template(WIP...).md",
     "MachineLearning/공분산 행렬.md",
-    "TODO/☁ SOMEDAY.md",
     "TODO/2023-10-03.md",
     "TODO/2023-10-10.md",
     "TODO/2023-10-05.md",
@@ -231,7 +240,6 @@
     "MachineLearning/라그랑주 승수법.md",
     "MachineLearning/단위 벡터.md",
     "MachineLearning/고유 벡터.md",
-    "MachineLearning/Adam.md",
     "source/Recording 20231009202007.webm",
     "_source",
     "MachineLearning",
