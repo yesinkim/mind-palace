@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c48bc4e8f19232d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +220,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bf6103c5b05a40d3",
+  "active": "c48bc4e8f19232d8",
   "lastOpenFiles": [
     "TODO/2024-02-26.md",
     "TODO/2024-02-25.md",
