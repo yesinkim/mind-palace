@@ -37,14 +37,27 @@
             "id": "c48bc4e8f19232d8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIENVENIDOS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b34d4bb46fecfc25",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.11"
+                "currentVersion": "1.5.12"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/2024-03-18.md"
+                "file": "BIENVENIDOS.md"
               }
             }
           },
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/2024-03-18.md",
+                "file": "BIENVENIDOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/2024-03-18.md",
+                "file": "BIENVENIDOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,12 +233,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c48bc4e8f19232d8",
+  "active": "b34d4bb46fecfc25",
   "lastOpenFiles": [
+    "TODO/무제 파일 1.md",
+    "TODO/무제 파일.md",
+    "BIENVENIDOS.md",
     "TODO/2024-02-26.md",
     "TODO/2024-02-25.md",
     "TODO/2024-03-18.md",
-    "BIENVENIDOS.md",
     "Workout/10월 운동기록.md",
     "TODO/☁ SOMEDAY.md",
     "TODO/docker compose.md",
@@ -244,12 +259,10 @@
     "TODO/2023-10-05.md",
     "Template/Workout Template(WIP also...).md",
     "TODO/2023-10-21.md",
-    "TODO/무제 파일.md",
     "MachineLearning/주성분 분석.md",
     "MachineLearning/정규직교 행렬.md",
     "MachineLearning/라그랑주 승수법.md",
     "MachineLearning/단위 벡터.md",
-    "MachineLearning/고유 벡터.md",
     "source/Recording 20231009202007.webm",
     "_source",
     "MachineLearning",
