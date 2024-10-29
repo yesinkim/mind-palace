@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-02-25"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-03-18"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "BIENVENIDOS"
             }
           },
           {
@@ -56,7 +62,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "BIENVENIDOS"
             }
           }
         ],
@@ -80,7 +88,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -95,7 +105,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -103,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -127,7 +141,9 @@
               "type": "outline",
               "state": {
                 "file": "BIENVENIDOS.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "BIENVENIDOS 개요"
             }
           },
           {
@@ -138,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -158,7 +178,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -170,7 +192,9 @@
                 "file": "BIENVENIDOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "BIENVENIDOS의 나가는 링크"
             }
           },
           {
@@ -178,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "reminder-list",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -195,7 +221,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "BIENVENIDOS의 백링크"
             }
           },
           {
@@ -203,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
             }
           },
           {
@@ -211,7 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
