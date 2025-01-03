@@ -51,9 +51,36 @@
               "icon": "lucide-file",
               "title": "SAMPLE DATA"
             }
+          },
+          {
+            "id": "c4357cc99748b53e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "source/Pasted image 20241117002942.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241117002942"
+            }
+          },
+          {
+            "id": "4054c44d6d631cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/K핸드메이드페어.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K핸드메이드페어"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,23 +280,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6b1cc8b8faf06e62",
+  "active": "4054c44d6d631cc9",
   "lastOpenFiles": [
-    "무제 폴더",
-    "Project/Timekeeper/2024-11-05.md",
+    "Etcetera",
+    "source/무제 파일.md",
+    "source/K핸드메이드페어.md",
+    "source/Pasted image 20241117002942.png",
+    "source/Pasted image 20241116232730.png",
+    "source/Pasted image 20241116230815.png",
+    "source/Pasted image 20241116230727.png",
+    "source/Pasted image 20241116223419.png",
+    "짭스투시 스월 버킷햇 뜨기/짭투시 스월 버킷햇.md",
+    "Clippings/TimeKeepermanifest.json at featurecalendar-api · yesinkimTimeKeeper.md",
+    "Clippings/네이버 뉴스.md",
+    "Clippings/국회, '尹 탄핵소추안' 가결…헌정사 세번째 대통령 직무정지(종합2보).md",
+    "Clippings",
+    "짭스투시 스월 버킷햇 뜨기",
     "Project/Timekeeper/SAMPLE DATA.md",
+    "Project/Timekeeper/2024-11-05.md",
     "Project/Timekeeper/개발 로그(11월 셋째 주).md",
     "Project/Timekeeper/개발 로그(11월 둘째 주).md",
     "Template/Daily Note Template(WIP...).md",
     "BIENVENIDOS.md",
     "TODO/2024-11-12.md",
     "무제 폴더 1",
-    "source/Pasted image 20241117002942.png",
-    "source/Pasted image 20241116232730.png",
-    "source/Pasted image 20241116230815.png",
-    "source/Pasted image 20241116230727.png",
     "source/Pasted image 20241116230653.png",
-    "source/Pasted image 20241116223419.png",
     "source",
     "TODO/2024-11-11.md",
     "TODO/docker compose.md",
@@ -283,20 +318,13 @@
     "TODO/2024-02-25.md",
     "Workout/10월 운동기록.md",
     "TODO/☁ SOMEDAY.md",
-    "TODO/2023-12-30.md",
-    "2023.md",
-    "MachineLearning/고유 값.md",
     "_source/Pasted image 20231009205649.png",
     "_source/Pasted image 20231010024746.png",
-    "MachineLearning/독립성분 분석.md",
-    "TODO/2023-10-07.md",
-    "TODO/2023-10-09.md",
     "source/Recording 20231009202007.webm",
     "_source",
     "MachineLearning",
     "Workout",
     "Template",
-    "untitled folder",
-    "TODO"
+    "untitled folder"
   ]
 }
