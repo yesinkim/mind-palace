@@ -70,17 +70,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/K핸드메이드페어.md",
+                "file": "Clippings/TimeKeepermanifest.json at featurecalendar-api · yesinkimTimeKeeper.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "K핸드메이드페어"
+              "title": "TimeKeepermanifest.json at featurecalendar-api · yesinkimTimeKeeper"
+            }
+          },
+          {
+            "id": "ff6d7767c27c0901",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -99,7 +120,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -267,11 +289,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:녹음 시작/중지": false,
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "audio-recorder:녹음 시작/정지": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "workspaces:작업 공간 레이아웃 관리": false,
@@ -280,11 +302,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4054c44d6d631cc9",
+  "active": "ff6d7767c27c0901",
   "lastOpenFiles": [
+    "source/K핸드메이드페어.md",
     "Etcetera",
     "source/무제 파일.md",
-    "source/K핸드메이드페어.md",
     "source/Pasted image 20241117002942.png",
     "source/Pasted image 20241116232730.png",
     "source/Pasted image 20241116230815.png",
@@ -324,7 +346,6 @@
     "_source",
     "MachineLearning",
     "Workout",
-    "Template",
-    "untitled folder"
+    "Template"
   ]
 }
