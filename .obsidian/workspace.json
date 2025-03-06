@@ -92,16 +92,28 @@
             "id": "ff6d7767c27c0901",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Crochet Project/에어리코튼 블랭킷 -> 테이블 매트.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "에어리코튼 블랭킷 -> 테이블 매트"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -302,8 +314,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ff6d7767c27c0901",
+  "active": "4054c44d6d631cc9",
   "lastOpenFiles": [
+    "Crochet Project/에어리코튼 블랭킷 -> 테이블 매트.md",
+    "Crochet Project/짭투시 스월 버킷햇.md",
+    "Crochet Project",
     "source/K핸드메이드페어.md",
     "Etcetera",
     "source/무제 파일.md",
@@ -312,7 +327,6 @@
     "source/Pasted image 20241116230815.png",
     "source/Pasted image 20241116230727.png",
     "source/Pasted image 20241116223419.png",
-    "짭스투시 스월 버킷햇 뜨기/짭투시 스월 버킷햇.md",
     "Clippings/TimeKeepermanifest.json at featurecalendar-api · yesinkimTimeKeeper.md",
     "Clippings/네이버 뉴스.md",
     "Clippings/국회, '尹 탄핵소추안' 가결…헌정사 세번째 대통령 직무정지(종합2보).md",
@@ -345,7 +359,6 @@
     "source/Recording 20231009202007.webm",
     "_source",
     "MachineLearning",
-    "Workout",
-    "Template"
+    "Workout"
   ]
 }
