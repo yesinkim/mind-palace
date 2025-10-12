@@ -4,83 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "645352335f7d3685",
+        "id": "842dc1782c11712e",
         "type": "tabs",
         "children": [
           {
-            "id": "940de891e27cf8b7",
+            "id": "66c66119b9166cb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Project/Timekeeper/개발 로그(11월 셋째 주).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "source/Pasted image 20250506234915.png"
               },
-              "icon": "lucide-file",
-              "title": "개발 로그(11월 셋째 주)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250506234915"
             }
           },
           {
-            "id": "2a0a680b9ef1c64d",
+            "id": "1d969629e27d2396",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "English/무제.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.8.10"
               },
-              "icon": "lucide-file",
-              "title": "무제"
-            }
-          },
-          {
-            "id": "ff6d7767c27c0901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/국회, '尹 탄핵소추안' 가결…헌정사 세번째 대통령 직무정지(종합2보).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "국회, '尹 탄핵소추안' 가결…헌정사 세번째 대통령 직무정지(종합2보)"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,12 +233,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ff6d7767c27c0901",
+  "active": "1d969629e27d2396",
   "lastOpenFiles": [
+    "source/무제 파일.md",
+    "source/Pasted image 20250506234915.png",
+    "_source/Pasted image 20231009205649.png",
+    "_source/Pasted image 20231010024746.png",
+    "TODO/2025-05-06.md",
+    "TODO/환경.md",
+    "무제 1.md",
+    "Clippings/국회, '尹 탄핵소추안' 가결…헌정사 세번째 대통령 직무정지(종합2보).md",
+    "Project/Timekeeper/개발 로그(11월 셋째 주).md",
+    "English/무제.md",
+    "Clippings/무제.md",
+    "무제",
     "Crochet Project/짭투시 스월 버킷햇.md",
     "Crochet Project/에어리코튼 블랭킷 -> 테이블 매트.md",
-    "English/무제.md",
-    "Project/Timekeeper/개발 로그(11월 셋째 주).md",
     "English",
     "Project/Timekeeper/2024-11-05.md",
     "Project/Timekeeper/SAMPLE DATA.md",
@@ -295,13 +257,11 @@
     "Crochet Project",
     "source/K핸드메이드페어.md",
     "Etcetera",
-    "source/무제 파일.md",
     "source/Pasted image 20241116232730.png",
     "source/Pasted image 20241116230815.png",
     "source/Pasted image 20241116230727.png",
     "source/Pasted image 20241116223419.png",
     "Clippings/네이버 뉴스.md",
-    "Clippings/국회, '尹 탄핵소추안' 가결…헌정사 세번째 대통령 직무정지(종합2보).md",
     "Clippings",
     "짭스투시 스월 버킷햇 뜨기",
     "Project/Timekeeper/개발 로그(11월 둘째 주).md",
@@ -317,15 +277,7 @@
     "TODO/2024-04-17.md",
     "TODO/2023-10-21.md",
     "TODO/2024-02-26.md",
-    "TODO/2024-03-18.md",
-    "TODO/무제 파일 1.md",
-    "TODO/무제 파일.md",
-    "TODO/2024-02-25.md",
-    "Workout/10월 운동기록.md",
-    "_source/Pasted image 20231009205649.png",
-    "_source/Pasted image 20231010024746.png",
     "source/Recording 20231009202007.webm",
-    "_source",
-    "MachineLearning"
+    "_source"
   ]
 }
