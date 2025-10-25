@@ -23,12 +23,12 @@
             "id": "1d969629e27d2396",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "source/Pasted image 20241116230815.png"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241116230815"
             }
           }
         ],
@@ -235,6 +235,19 @@
   },
   "active": "1d969629e27d2396",
   "lastOpenFiles": [
+    "source/Pasted image 20241116230727.png",
+    "source/Pasted image 20241116230653.png",
+    "source/Pasted image 20241116230815.png",
+    "source/Pasted image 20241116232730.png",
+    "source/K핸드메이드페어.md",
+    "source/Pasted image 20241116223419.png",
+    "Clippings/국회, '尹 탄핵소추안' 가결…헌정사 세번째 대통령 직무정지(종합2보).md",
+    "Crochet Project/짭투시 스월 버킷햇.md",
+    "Crochet Project/에어리코튼 블랭킷 -> 테이블 매트.md",
+    "Project/Timekeeper/개발 로그(11월 셋째 주).md",
+    "Project/Timekeeper/개발 로그(11월 둘째 주).md",
+    "BIENVENIDOS.md",
+    "취업준비",
     "source/무제 파일.md",
     "source/Pasted image 20250506234915.png",
     "_source/Pasted image 20231009205649.png",
@@ -242,34 +255,22 @@
     "TODO/2025-05-06.md",
     "TODO/환경.md",
     "무제 1.md",
-    "Clippings/국회, '尹 탄핵소추안' 가결…헌정사 세번째 대통령 직무정지(종합2보).md",
-    "Project/Timekeeper/개발 로그(11월 셋째 주).md",
     "English/무제.md",
     "Clippings/무제.md",
     "무제",
-    "Crochet Project/짭투시 스월 버킷햇.md",
-    "Crochet Project/에어리코튼 블랭킷 -> 테이블 매트.md",
     "English",
     "Project/Timekeeper/2024-11-05.md",
     "Project/Timekeeper/SAMPLE DATA.md",
     "source/Pasted image 20241117002942.png",
     "Clippings/TimeKeepermanifest.json at featurecalendar-api · yesinkimTimeKeeper.md",
     "Crochet Project",
-    "source/K핸드메이드페어.md",
     "Etcetera",
-    "source/Pasted image 20241116232730.png",
-    "source/Pasted image 20241116230815.png",
-    "source/Pasted image 20241116230727.png",
-    "source/Pasted image 20241116223419.png",
     "Clippings/네이버 뉴스.md",
     "Clippings",
     "짭스투시 스월 버킷햇 뜨기",
-    "Project/Timekeeper/개발 로그(11월 둘째 주).md",
     "Template/Daily Note Template(WIP...).md",
-    "BIENVENIDOS.md",
     "TODO/2024-11-12.md",
     "무제 폴더 1",
-    "source/Pasted image 20241116230653.png",
     "source",
     "TODO/2024-11-11.md",
     "TODO/docker compose.md",
@@ -277,7 +278,6 @@
     "TODO/2024-04-17.md",
     "TODO/2023-10-21.md",
     "TODO/2024-02-26.md",
-    "source/Recording 20231009202007.webm",
-    "_source"
+    "source/Recording 20231009202007.webm"
   ]
 }
