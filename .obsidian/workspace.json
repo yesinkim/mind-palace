@@ -23,16 +23,40 @@
             "id": "1d969629e27d2396",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/Pasted image 20241116230815.png"
+                "file": "BIENVENIDOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241116230815"
+              "icon": "lucide-file",
+              "title": "BIENVENIDOS"
+            }
+          },
+          {
+            "id": "f32a3421eb549dfc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.14"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,6 +244,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "audio-recorder:녹음 시작/정지": false,
@@ -233,11 +258,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1d969629e27d2396",
+  "active": "f32a3421eb549dfc",
   "lastOpenFiles": [
+    "source/Pasted image 20241116230815.png",
     "source/Pasted image 20241116230727.png",
     "source/Pasted image 20241116230653.png",
-    "source/Pasted image 20241116230815.png",
     "source/Pasted image 20241116232730.png",
     "source/K핸드메이드페어.md",
     "source/Pasted image 20241116223419.png",
